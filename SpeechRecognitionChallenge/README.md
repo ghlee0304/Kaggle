@@ -1,6 +1,6 @@
 ## SpeechRecognitionChallenge
 
-음성인식챌린지를 위한 코드입니다 <br \>
+<p>음성인식챌린지를 위한 코드입니다
 
 convert_wav로 wav파일을 npy로 따로 만들어 npy 파일을 이용합니다<br \>
 npy파일이 데이터를 읽어오는데 시간이 빠르기때문에 변환해서 사용합니다<br \>
