@@ -11,4 +11,4 @@
 <p>label.csv는 train의 클래스를 0~29까지 적어둔 파일입니다
   
 <p>모델부분은 김성훈교수님의 강의의 코드와 아래 블로그를 참고하였습니다
-https://danijar.com/variable-sequence-lengths-in-tensorflow/
+<p>https://danijar.com/variable-sequence-lengths-in-tensorflow/
