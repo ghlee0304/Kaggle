@@ -5,6 +5,7 @@
 ### mfcc
 <p>librosa.mfcc를 이용하여 feature를 추출한 후 사용한 코드이며
 <p>학습된 모델을 복원하여 test에 적용하는 코드까지 있습니다
+<p>unknown에대하여 제대로 처리하지않았기 때문에 0.76의 정확도를 얻을 수 밖에 없었습니다
  
 ### scipy
 <p>convert_wav로 wav파일을 npy로 따로 만들어 npy 파일을 이용합니다
