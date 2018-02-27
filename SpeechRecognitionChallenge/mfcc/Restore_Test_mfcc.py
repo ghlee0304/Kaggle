@@ -1,4 +1,3 @@
-#이 코드는 201712_Attack_Source_LSTM1FC1Class.py 에서 만든 모델을 복원 
 import tensorflow as tf
 import pandas as pd
 import numpy as np
